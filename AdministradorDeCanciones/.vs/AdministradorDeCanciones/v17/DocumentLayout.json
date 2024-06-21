@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|c:\\users\\user\\source\\repos\\administradordecanciones\\administradordecanciones\\daoandmodels\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|c:\\users\\user\\source\\repos\\administradordecanciones\\administradordecanciones\\daoandmodels\\daoplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\daoplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formulariocargaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formulariocargaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|c:\\users\\user\\source\\repos\\administradordecanciones\\administradordecanciones\\formulariocargaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formulariocargaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|c:\\users\\user\\source\\repos\\administradordecanciones\\administradordecanciones\\formplaylists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formplaylists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\daoandmodels\\daocanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\daocanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\daoandmodels\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\daoandmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\daoandmodels\\daopararegristroyautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\daoandmodels\\daopararegristroyautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formulariologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formularioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\formularioregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\administradordecanciones\\gestordeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4730D822-80B1-44F3-AA6B-3915209E1576}|AdministradorDeCanciones\\AdministradorDeCanciones.csproj|solutionrelative:administradordecanciones\\gestordeconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\PlayList.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\PlayList.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\PlayList.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\PlayList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:59:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DAOPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DAOPlaylist.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\DAOPlaylist.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DAOPlaylist.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\DAOPlaylist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:58:41.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Formplaylists.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\Formplaylists.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\Formplaylists.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\Formplaylists.cs [Design]",
+              "RelativeToolTip": "AdministradorDeCanciones\\Formplaylists.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T21:55:22.444Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormularioCargaPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioCargaPrincipal.cs [Design]",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioCargaPrincipal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:55:29.542Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormularioCargaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioCargaPrincipal.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAYwIIBAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:14:03.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAOCanciones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DAOCanciones.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\DAOCanciones.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DAOCanciones.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\DAOCanciones.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:16:08.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormularioRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioRegistro.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioRegistro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:48:46.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\Usuario.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\Usuario.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:43:49.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestorDeConexion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\GestorDeConexion.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\GestorDeConexion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\GestorDeConexion.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\GestorDeConexion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:17:22.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DaoParaRegristroYAutenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DaoParaRegristroYAutenticacion.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\DaoParaRegristroYAutenticacion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\DaoParaRegristroYAutenticacion.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\DaoParaRegristroYAutenticacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:13:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\Cancion.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\DAOANDMODELS\\Cancion.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\DAOANDMODELS\\Cancion.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\DAOANDMODELS\\Cancion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T20:11:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormularioLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioLogin.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioLogin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioLogin.cs [Design]",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:47:22.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormularioRegistro.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioRegistro.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.cs [Design]",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioRegistro.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:44:47.22Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormularioLogin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioLogin.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioLogin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioLogin.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioLogin.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:47:29.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormularioRegistro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.Designer.cs",
+              "RelativeDocumentMoniker": "AdministradorDeCanciones\\FormularioRegistro.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\AdministradorDeCanciones\\AdministradorDeCanciones\\FormularioRegistro.Designer.cs",
+              "RelativeToolTip": "AdministradorDeCanciones\\FormularioRegistro.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAmwGMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:57:07.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
