@@ -21,3 +21,4 @@ C:\Users\User\source\repos\AdministradorDeCanciones\AdministradorDeCanciones\obj
 C:\Users\User\source\repos\AdministradorDeCanciones\AdministradorDeCanciones\obj\Debug\net8.0-windows\AdministradorDeCanciones.genruntimeconfig.cache
 C:\Users\User\source\repos\AdministradorDeCanciones\AdministradorDeCanciones\obj\Debug\net8.0-windows\ref\AdministradorDeCanciones.dll
 C:\Users\User\source\repos\AdministradorDeCanciones\AdministradorDeCanciones\obj\Debug\net8.0-windows\AdministradorDeCanciones.FormularioCargaPrincipal.resources
+C:\Users\User\source\repos\AdministradorDeCanciones\AdministradorDeCanciones\obj\Debug\net8.0-windows\AdministradorDeCanciones.Formplaylists.resources

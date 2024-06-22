@@ -35,14 +35,11 @@
             passwordtxt = new TextBox();
             label3 = new Label();
             button1 = new Button();
-            button2 = new Button();
-            panel1.SuspendLayout();
             SuspendLayout();
             // 
             // panel1
             // 
             panel1.BackColor = SystemColors.ControlText;
-            panel1.Controls.Add(button2);
             panel1.Location = new Point(4, -2);
             panel1.Name = "panel1";
             panel1.Size = new Size(467, 452);
@@ -102,16 +99,6 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // button2
-            // 
-            button2.Location = new Point(8, 378);
-            button2.Name = "button2";
-            button2.Size = new Size(101, 62);
-            button2.TabIndex = 7;
-            button2.Text = "Volver a Loguearse";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -127,7 +114,6 @@
             Controls.Add(panel1);
             Name = "Form1";
             Text = "Form1";
-            panel1.ResumeLayout(false);
             ResumeLayout(false);
             PerformLayout();
         }
@@ -141,6 +127,5 @@
         private TextBox passwordtxt;
         private Label label3;
         private Button button1;
-        private Button button2;
     }
 }

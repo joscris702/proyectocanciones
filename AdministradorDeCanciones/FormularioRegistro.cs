@@ -22,6 +22,10 @@ namespace AdministradorDeCanciones
             if (usuario2)
             {
                 MessageBox.Show("Usuario registrado correctamente, vuelva al login");
+                this.Hide();
+
+                FormularioLogin login = new FormularioLogin();
+                login.Show();
             }
             else
             {
@@ -31,10 +35,7 @@ namespace AdministradorDeCanciones
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Hide();
-
-            FormularioLogin login = new FormularioLogin();
-            login.Show();
+          
         }
     }
 }
